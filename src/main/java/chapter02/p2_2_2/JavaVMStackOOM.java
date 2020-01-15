@@ -1,4 +1,4 @@
-package p2_2_2;
+package chapter02.p2_2_2;
 
 /**
  * VM Args: -Xss2M 减少栈内存容量。
